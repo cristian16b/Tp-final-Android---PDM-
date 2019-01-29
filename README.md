@@ -1,3 +1,16 @@
+# Objetivo
+- Aprendizaje de programación en Android
+- Incorporar nuevas funcionalidades a la app existente
+- Pruebas, Validaciones y rectificaciones de funcionalidades existentes
+
+# Fecha de inicio 1/2/2019
+# Fecha de fin (estimada) 22/2/2019
+# Presentación: turnos de examenes de marzo o abril
+
+# Alcance y objetivos a definir con el equipo docente
+
+------------------
+
 # CUI
 App en Android - Ciudad Universitaria Inteligente (UNL)
 
